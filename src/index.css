@@ -1,0 +1,11 @@
+:root {
+  box-sizing: border-box;
+}
+body, html {
+  margin: 0px;
+  padding: 0px;
+}
+
+main {
+  min-height: 100vh;
+}
